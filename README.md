@@ -5,7 +5,7 @@
 <a href="https://github.com/clubgamma/Tic-Tac-Toe-Game/pulls"><img src="https://img.shields.io/github/issues-pr/clubgamma/Tic-Tac-Toe-Game?style=flat?color=yellow"/></a>
 <a href="https://github.com/clubgamma/Tic-Tac-Toe-Game/issues"><img src="https://img.shields.io/github/issues/clubgamma/Tic-Tac-Toe-Game?style=flat"/></a>
 <a href="https://github.com/clubgamma/Tic-Tac-Toe-Game/graphs/contributors"><img src="https://img.shields.io/github/contributors/clubgamma/Tic-Tac-Toe-Game?color=orange"/></a>
-<a href="https://github.com/clubgamma/Awesome-Flutter-Art/blob/master/LICENSE"><img src="https://img.shields.io/github/license/clubgamma/Awesome-Flutter-Art?color=1abc9c"/></a>
+<a href="https://github.com/clubgamma/Tic-Tac-Toe-Game/blob/master/LICENSE"><img src="https://img.shields.io/github/license/clubgamma/Awesome-Flutter-Art?color=1abc9c"/></a>
 <br>
   
 [![](https://img.shields.io/badge/Club_Gamma-Code_of_conduct-%23FF0000.svg?&style=flat&logoColor=white&color=red)](https://clubgamma.github.io/code-of-conduct/)
@@ -31,11 +31,20 @@ Python 🐍
 
 
 # Things to keep in mind
+
   - **Before creating any Pull Request, please register yourself at [Hacktoberfest's Official Website](https://hacktoberfest.digitalocean.com/)**
   - **Club Gamma swags will only be shipped inside India**
+  - **If a maintainer reports behavior that’s not in line with the project’s code of conduct, then you will be ineligible to participate.**
   - **Only first 30 contributors who successfully submit minimum 3 PRs to any of the projects in Club Gamma organization will get Club Gamma swags**
   - **To get Digital Ocean swags, you just have to make minimum 4 PRs to any open source projects on GitHub**
+  - **If a maintainer reports your pull request as spam, it will not be counted towards your participation in Hacktoberfest.**
   
+## Contact Us
+
+**To know more about us, visit [official website](https://clubgamma.github.io/) of Club Gamma.**
+
+**To know more about how Club Gamma is going to celebrate Hacktoberfest, click [here](https://clubgamma.github.io/hacktoberfest/)**
+
 <br>
 <div align="center">  
 <i>If you want to add any feature or if you found a bug, feel free to open an issue</i><br><br>
