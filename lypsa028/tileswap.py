@@ -10,7 +10,7 @@
 
 from random import *
 from turtle import *
-from tileswap import floor, vector
+from freegames import floor, vector
 
 tile = {}
 neighbors = [
