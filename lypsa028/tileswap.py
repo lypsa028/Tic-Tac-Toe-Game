@@ -1,3 +1,4 @@
+"""
   Tiles Swapping Rules:
 
  Tracks the score by the number of moves in accordance to tiles.
@@ -11,7 +12,7 @@ from random import *
 from turtle import *
 from tileswap import floor, vector
 
-tiles = {}
+tile = {}
 neighbors = [
     vector(100, 0),
     vector(-100, 0),
@@ -86,9 +87,8 @@ def draw():
 setup(430, 430, 350, 0)
 hideturtle()
 tracer(False)
-load()
+loading()
 draw()
 onscreenclick(tap)
 done()
 
-"""
